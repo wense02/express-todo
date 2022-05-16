@@ -1,0 +1,19 @@
+{
+  "name": "express-todo",
+  "version": "1.0.0",
+  "description": "A simple express todo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified'",
+    "start": "node .",
+    "dev": "nodemon"
+  },
+  "author": "Osinachi Chukwujama",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
